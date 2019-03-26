@@ -4,4 +4,4 @@ Display the average of the test scores to two decimal places.
 
 Farrell, Joyce. Microsoft Visual C# 2015: An Introduction to Object-Oriented Programming (Page 97). Course Technology. Kindle Edition. 
 
-Steven C Love
+Steven C Futuristic
